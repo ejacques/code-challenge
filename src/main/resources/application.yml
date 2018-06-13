@@ -1,0 +1,12 @@
+#spring:
+#  jpa:
+#    database: POSTGRESQL
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: create-drop
+#  datasource:
+#    platform: postgres
+#    url: jdbc:postgresql://db-interview.cve.one:5432/northwind
+#    username: northwind
+#    password: northwind
+#    driverClassName: org.postgresql.Driver
